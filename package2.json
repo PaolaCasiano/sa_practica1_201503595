@@ -1,0 +1,11 @@
+{
+  "name": "sa_practica1_201503595",
+  "version": "1.0.0",
+  "description": "practica 1 sa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"test\""
+  },
+  "author": "Paola Casiano",
+  "license": "ISC"
+}
